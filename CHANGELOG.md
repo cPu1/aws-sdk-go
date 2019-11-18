@@ -1,3 +1,9 @@
+Release v1.25.22 (2019-10-28)
+===
+
+### Service Client Updates
+* `service/eks`: Updates service API, documentation, waiters, paginators, and examples
+
 Release v1.25.21 (2019-10-28)
 ===
 
